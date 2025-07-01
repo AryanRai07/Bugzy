@@ -1,3 +1,4 @@
 # Bugzy
 This is my first Repository
-Author- Aryan 
+<br>
+Author- Aryan Rai 
